@@ -3,7 +3,8 @@
 
 На тестирование затрачено: 1 час
 
-В результате тестирования дефекты не выявлены.
+В результате тестирования выявлены следующие дефекты:
+https://docs.google.com/spreadsheets/d/1aLLFRWpHmxkpIZ87mndBb5Ern6SYubfwOftM6OAi9DI/edit?usp=sharing
 
 В качестве тестовых данных использовались данные карт с сайта https://www.freeformatter.com/
 
